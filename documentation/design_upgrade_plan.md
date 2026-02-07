@@ -48,5 +48,3 @@ This plan aims to transform the current "Glassmorphism" portfolio into a high-en
 
 
 
-admin@portfolio.com
-securePassword123
